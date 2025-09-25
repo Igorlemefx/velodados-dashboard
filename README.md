@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Velodados - Dashboard de Atendimentos
 
 Sistema de análise de dados de atendimentos desenvolvido para a Velotax, com arquitetura local sem backend.
@@ -111,3 +112,6 @@ O dashboard é totalmente responsivo e funciona em:
 ## 📄 Licença
 
 Este projeto é propriedade da Velotax e destinado ao uso interno da empresa.
+=======
+# velodados-dashboard
+>>>>>>> 1fedfd1b2e4ee40b58becde55af9df9f042873cb
